@@ -54,7 +54,7 @@ To analyze and visualize weather data in a clean, interactive dashboard for quic
 
 ## 📸 Dashboard Preview
 
-![Weather Dashboard](demo.png)
+![Weather Dashboard](Demo.png)
 
 
 
